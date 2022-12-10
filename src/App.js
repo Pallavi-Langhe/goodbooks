@@ -28,6 +28,7 @@ export default function App() {
             <li key={book.name}>
               {" "}
               <div style={{ fontSize: "larger" }}> {book.name} </div>
+              <div style={{ fontSize: "Smaller" }}> {book.description} </div>
               <div style={{ fontSize: "smaller" }}> {book.rating} </div>
             </li>
           ))}

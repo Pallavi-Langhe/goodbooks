@@ -10,7 +10,7 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1> 📚 Goodbooks </h1>
+      <h1> 📚 Goodbooks the title </h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
         Checkout my favorite books. Select a genre to get started{" "}

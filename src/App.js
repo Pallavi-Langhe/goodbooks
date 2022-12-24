@@ -13,7 +13,7 @@ export default function App() {
       <h1> 📚 Goodbooks the title </h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
-        heyy these are my favorite books. Select a genre to get started{" "}
+        Heyy these are my favorite books. Select a genre to get started{" "}
       </p>
 
       <div>
